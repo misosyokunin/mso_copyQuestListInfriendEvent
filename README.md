@@ -1,0 +1,2 @@
+# mso_copyQuestListInfriendEvent
+MSOの友好イベントにて配布クエストを簡単にコピペするブックマークレットです。
