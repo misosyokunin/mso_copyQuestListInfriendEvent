@@ -2,9 +2,9 @@ javascript:(async()=>{
 "use strict";
 
 /*
-┏━━━━━━━━━━━━┓
-┃ＭＳＯ＿マケプレ自動入札┃
-┗━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━┓
+┃ＭＳＯ＿友好イベント用クエスト整形┃
+┗━━━━━━━━━━━━━━━━━┛
 Developer:
 	魚頭男（https://minesweeper.online/ja/player/16842796 ）
 Writing:
