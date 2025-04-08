@@ -160,6 +160,12 @@ function getQuests(){
 		const detail = (() => {
 			let rs = td[1].textContent;
 			rs = rs.replace(Delete_reg, "");
+			const mat = rs.match(/^\d+/);
+			if(mat){
+				const temp = mat[0];
+				rs = rs.replace(mat[0], "");
+				rs += `${temp}個`;
+			}
 			return rs;
 		})();
 		const level = (() => {
